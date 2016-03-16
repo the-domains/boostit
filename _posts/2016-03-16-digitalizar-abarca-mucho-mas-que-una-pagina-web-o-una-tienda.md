@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Digitalizar abarca mucho más que una página web o una tienda online; se trata de analizar en profundidad la experiencia multicanal del cliente, buscar nuevos modelos de negocio y transformar estructuras y formas de trabajo dentro de las organizaciones para conseguir resultados.'
-datePublished: '2016-03-16T18:25:14.492Z'
-dateModified: '2016-03-16T18:25:04.964Z'
+datePublished: '2016-03-16T18:27:56.464Z'
+dateModified: '2016-03-16T18:25:46.999Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-digitalizar-abarca-mucho-mas-que-una-pagina-web-o-una-tienda.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-digitalizar-abarca-mucho-mas-que-una-pagina-web-o-una-tienda.md
-published: true
 url: digitalizar-abarca-mucho-mas-que-una-pagina-web-o-una-tienda/index.html
 _type: Article
 
