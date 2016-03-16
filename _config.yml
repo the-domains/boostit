@@ -1,7 +1,7 @@
 name: Boostit
 favicon: null
-layout_spectrum: 0.93301
-typography_spectrum: 0.14719
+layout_spectrum: 0.849575084168464
+typography_spectrum: 0.7700697269756347
 title: Your Digital Partner
 cta:
   domain: null
@@ -17,11 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#2a69ab'
-    - '#87aacf'
-  brandStrength: 0.125
-  lightness: 1
-  saturation: 1
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5112250968813896
+  lightness: 0.422091644955799
+  saturation: 0.39852672745473683
   rhythmicContrast: 0.31983067793771625
 purpose: []
