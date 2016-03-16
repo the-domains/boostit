@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Boostit]]></title>
         <description><![CDATA[Boostit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/boostit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 18:26:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 18:26:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/boostit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Boostit - DIGITAL ADVISING & TRAINING]]></title>
+            <description><![CDATA[<article><h1>Boostit - DIGITAL ADVISING & TRAINING</h1><p>Asesoramiento y formación a empresas e instituciones para avanzar en la transformación y en el desarrollo de negocio digital.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dea29ab2af69b9491c9f43970a0ed2064c315653.jpg"></article>]]></description>
+            <link>https://thegrid.ai/boostit/boostit/index.html</link>
+            <guid isPermaLink="false">891f18b6-fbec-4747-a304-6858e2ec9280</guid>
+            <pubDate>Wed, 16 Mar 2016 18:25:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Boosting]]></title>
             <description><![CDATA[<article><h1>Boosting</h1><p>Digitalizar abarca mucho más que una página web o una tienda online; se trata de analizar en profundidad la experiencia multicanal del cliente, buscar nuevos modelos de negocio y transformar estructuras y formas de trabajo dentro de las organizaciones para conseguir resultados.</p></article>]]></description>
-            <link>undefineddigitalizar-abarca-mucho-mas-que-una-pagina-web-o-una-tienda/index.html</link>
+            <link>https://thegrid.ai/boostit/digitalizar-abarca-mucho-mas-que-una-pagina-web-o-una-tienda/index.html</link>
             <guid isPermaLink="false">f1513eca-332e-41f0-8449-7f8462a128e3</guid>
             <pubDate>Wed, 16 Mar 2016 18:25:14 GMT</pubDate>
         </item>
